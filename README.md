@@ -1,0 +1,2 @@
+# What-are-good-kaldi-python-books-
+https://www.google.com/search?rlz=1C1ASUT_enUS569US569&amp;biw=1024&amp;bih=489&amp;tbm=bks&amp;sxsrf=ALeKk00g2wTrBcyiBp6UuQYe4yC06e1QNA%3A1590905053654&amp;ei=3UjTXty-J5La9APsh7TYDw&amp;q=kaldi+speech+python&amp;oq=kaldi+speech+python&amp;gs_l=psy-ab.3...50846.51548.0.51753.7.7.0.0.0.0.140.709.5j2.7.0....0...1c.1.64.psy-ab..0.3.347...33i299k1j33i10k1.0.j8rAXvTIbQo
